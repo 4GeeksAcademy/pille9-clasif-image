@@ -1,5 +1,6 @@
 __pycache__
 .env
 .learn
-train/
-test/
+data/train/
+data/test/
+best_model.h5
